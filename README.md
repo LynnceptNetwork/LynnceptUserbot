@@ -33,4 +33,5 @@ If you need help ask in our support group
 and we or our friends will try to help you.
 
 Thanks for using our bot
+Also The bot is kanged from Ultroid and catuserbot
 ```
