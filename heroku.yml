@@ -1,0 +1,3 @@
+build:
+  docker:
+      lynncept: Dockerfile
