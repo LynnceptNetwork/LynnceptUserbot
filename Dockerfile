@@ -3,7 +3,7 @@
 # This file is a part of < https://github.com/LynnceptNetwork/LynnceptUserbot/ >
 # PLease read the GNU Affero General Public License in <https://www.github.com/LynnceptNetwork/LynnceptUserbot/blob/main/LICENSE/>.
 
-FROM lynnceptnetwork/lynncept:main
+FROM LynnceptNetwork/LynnceptUserbot:main
 
 # set timezone
 ENV TZ=Asia/Kolkata
