@@ -9,7 +9,7 @@ A Premium Telegram userbot based on Telethon .
 
 ## Deploy Lynncept Userbot
 ### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/LynnceptNetwork/LynnceptUserbot)
+  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LynnceptNetwork/LynnceptUserbot)
 
 ## Support
    <a href="https://t.me/LynnceptNetwork/24"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
