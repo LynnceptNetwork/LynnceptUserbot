@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-directory="ubuntu-for-ultroid"
+directory="ubuntu-for-lynnceptuserbot"
 architecture=$(dpkg --print-architecture)
 
 install_ubuntu(){
