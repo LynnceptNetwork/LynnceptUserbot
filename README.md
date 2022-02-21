@@ -1,6 +1,6 @@
 # LynnceptUserbot
 A Premium Telegram userbot based on Telethon .
-![Lynnceptlogo](https://telegra.ph/file/b7dc845e3a48cde0d7bb1.jpg)
+![Lynnceptlogo](https://telegra.ph/file/8fa23ab47abd2abc3fbda.jpg)
 [![GitHub license](https://img.shields.io/github/license/LynnceptNetwork/LynnceptUserbot?&style=flat-square&logo=github)](https://github.com/LynnceptNetwork/LynnceptUserbot/blob/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com/LynnceptNetwork/LynnceptUserbot/fork)
 [![GitHub stars](https://img.shields.io/github/stars/TgCatUB/catuserbot?&style=flat-square&logo=github)](https://github.com/LynnceptNetwork/LynnceptUserbot/stargazers)
