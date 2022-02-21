@@ -96,7 +96,7 @@ install_pillow(){
 
 install_dependencies(){
     echo "Installing Dependencies..."
-    wget -O requirements.txt https://raw.githubusercontent.com/LynnceptNetwork/Lynncept/dev/resources/startup/optional-requirements.txt
+    wget -O requirements.txt https://raw.githubusercontent.com/LynnceptNetwork/LynnceptUserbot/dev/resources/startup/optional-requirements.txt
     pip install --no-cache-dir -r requirements.txt
     pip install av --no-binary av
     rm requirements.txt
