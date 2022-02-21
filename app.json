@@ -24,7 +24,7 @@
             "required": false
         },
         "SESSION": {
-            "description": "Your session string. Can be added now, or after deploy. (The bot will NOT work without a session string!!)",
+            "description": "Your session string. Can be added now, or after deploy. (https://replit.com/@Darkphoenix2601/LynnceptNetwork#main.py)",
             "value": ""
         },
         "REDIS_URI": {
