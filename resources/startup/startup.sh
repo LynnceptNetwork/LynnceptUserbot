@@ -14,4 +14,4 @@ echo "
 
 "
 
-python3 -m Lynncept
+python3 -m LynnceptUserbot
